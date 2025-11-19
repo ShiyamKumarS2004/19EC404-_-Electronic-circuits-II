@@ -24,7 +24,7 @@
 
 
 # Result
-abc
+abc 123
 Thus, the **COLPITTS OSCILLATOR** was designed for the given frequency.
 
 - **(i) Theoretical Frequency:**  
