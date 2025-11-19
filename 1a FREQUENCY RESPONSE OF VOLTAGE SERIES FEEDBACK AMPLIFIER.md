@@ -21,7 +21,7 @@ abc adf
 ## Sample images 
 
 
-## **Result**
+## **Result** abc
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
 The following parameters are calculated:
 
