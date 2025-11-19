@@ -23,7 +23,7 @@
 
 
 ### **Result**
-abc
+abc 123
 Thus the current shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
