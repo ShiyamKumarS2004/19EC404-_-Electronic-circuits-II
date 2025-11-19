@@ -29,7 +29,7 @@
 
 
 ## Result
-abc
+abc 123
 Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
 
 - **(i) Theoretical Frequency:**  
