@@ -1,5 +1,5 @@
 ## Exp. No. 1(d)
-**Date:**  
+**Date:**  6/9/25
 
 ## FREQUENCY RESPONSE OF CURRENT SHUNT FEEDBACK AMPLIFIER
 <img width="789" height="845" alt="image" src="https://github.com/user-attachments/assets/151287ca-5058-472f-85c6-c96d7f7ac1b7" />
@@ -22,6 +22,7 @@
 
 
 # Sample images 
+![1GPS](https://github.com/user-attachments/assets/767898a1-7548-45ac-90bb-17990f36bca1)
 
 
 ### **Result**
