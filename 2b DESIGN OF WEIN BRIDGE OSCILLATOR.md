@@ -17,11 +17,15 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|      45.2V      |      20ms        |          50.01HZ            |      50HZ                  |
 
+
+# Calculation
+![wein cal](https://github.com/user-attachments/assets/47352abd-2435-444d-870d-b97b8c395c19)
 
 
 # Graph
+![wein gra](https://github.com/user-attachments/assets/9e2e68e4-9bb7-45c1-95ba-a6abf106e1b7)
 
 
 # Sample images 
@@ -29,9 +33,9 @@
 
 
 ## Result
-abc 123
+
 Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:** 50HZ 
+- **(ii) Practical Frequency:**  50.1HZ
 
