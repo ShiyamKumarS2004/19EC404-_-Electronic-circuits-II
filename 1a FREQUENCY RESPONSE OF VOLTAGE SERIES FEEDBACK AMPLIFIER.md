@@ -21,7 +21,7 @@
 
 
 ## Sample images 
-![1GPS](https://github.com/user-attachments/assets/cd50eb70-2105-418e-8c25-aef7276ea7e5)
+![1A](https://github.com/user-attachments/assets/60df1c8c-e28a-4c56-aeff-18c6ea8f1ff9)
 
 
 ## **Result** 
