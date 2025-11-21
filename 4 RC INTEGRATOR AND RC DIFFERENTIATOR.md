@@ -1,5 +1,5 @@
 ## Exp. No. 4
-**Date:**  
+**Date:**  11/10/25
 
 ## RC INTEGRATOR AND RC DIFFERENTIATOR
 <img width="486" height="664" alt="image" src="https://github.com/user-attachments/assets/9cd74d70-fbc8-41a1-9297-ac8f65775583" />
@@ -21,13 +21,18 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+![integrator and diff tab](https://github.com/user-attachments/assets/a57f803d-fd06-4009-915d-cd180d2368f7)
 
 
 # Graph
+![integra and diff gra 1](https://github.com/user-attachments/assets/f316865b-e837-4d12-bc87-ed3efe7d3cf2)
+
+
+![inte and diff gra 2](https://github.com/user-attachments/assets/baae1e10-4f2e-4a4f-b7c9-298cee1ce1f6)
 
 
 # Sample images 
 
 
 # Result
-abc 123
+The RC Integrator and RC Differentiator circuits were implemented and tested successfully. The RC Integrator produced a smooth integrated output, while the RC Differentiator generated a sharp differentiated output. Thus, both RC circuits worked as expected.
