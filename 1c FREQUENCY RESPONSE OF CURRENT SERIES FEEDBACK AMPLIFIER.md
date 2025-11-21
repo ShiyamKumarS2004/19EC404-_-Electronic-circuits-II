@@ -23,7 +23,8 @@
 
 
 # Sample images 
-![3GPS](https://github.com/user-attachments/assets/0bc1a0da-851a-403f-8810-1695063e2e67)
+![1C](https://github.com/user-attachments/assets/b111bdf0-8872-4c50-a030-b45e2da772de)
+
 
 
 ### **Result**
