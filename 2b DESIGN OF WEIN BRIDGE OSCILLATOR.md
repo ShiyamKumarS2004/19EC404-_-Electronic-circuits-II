@@ -1,5 +1,5 @@
 ## Exp. No. 2(b)
-**Date:**  
+**Date:**  20/9/25
 
 ## DESIGN OF WEIN BRIDGE OSCILLATOR
 <img width="971" height="85" alt="image" src="https://github.com/user-attachments/assets/f37d711d-3c1c-421b-baf2-c726a8b96d69" />
@@ -29,6 +29,7 @@
 
 
 # Sample images 
+![WEIN ](https://github.com/user-attachments/assets/44ed2dd2-2ba6-4524-a244-15f97a92ae95)
 
 
 
